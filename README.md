@@ -5,3 +5,4 @@
 4. The remaining quantity is updated.
 5. A bill with exact time is shown to the user after the purchase is over.
 6. Welcome and GoodBye Greetings.
+7. Sales and Records are kept separate.
